@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "car_dealership",
+            "connectString": "postgres://xavyxtpa:vwHx6fP4sBsGMh43GGY-gjdo9BSOEMQU@kandula.db.elephantsql.com/xavyxtpa"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+postgres://xavyxtpa:vwHx6fP4sBsGMh43GGY-gjdo9BSOEMQU@kandula.db.elephantsql.com/xavyxtpa
